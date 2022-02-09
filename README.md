@@ -1,6 +1,4 @@
-## Olá! eu sou o Gabriel Prado
-Sou estudante de programação e apaixonado por tecnologia.<br>
-Estudando: Html, Css e Javascript
+
 <div align="center">
   <a href="https://github.com/Gabriel-Prd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Prd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
